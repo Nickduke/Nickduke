@@ -1,4 +1,4 @@
-Hi 👋 My name is Nick Ntoukas
+Hi 👋 My name is Nick!
 =============================
 
 Frontend Developer
