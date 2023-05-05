@@ -8,7 +8,7 @@ Frontend Developer
 * 🖥️  See my portfolio at [nickntoukas.com](http://www.nickntoukas.com/)
 * ✉️  You can contact me at [ntoukas.nick@gmail.com](mailto:ntoukas.nick@gmail.com)
 * 🤝  I'm open to collaborating on interesting projects
-* ⚡️    Let's play chess! https://lichess.org/@/BIGDOOKISS
+* ⚡️    Let's play chess! https://lichess.org/@/BIGDOOKISS https://www.chess.com/member/nduke93
 
 ### Skills
 
